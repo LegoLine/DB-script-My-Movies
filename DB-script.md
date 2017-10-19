@@ -1,6 +1,7 @@
 # DB-script-My-Movies
-This is a DB-script for MySQL that I use in a YouTube video.
+This is a DB-script for MySQL that I use in this YouTube video: https://www.youtube.com/watch?v=qGeceYM1HEg
 
+--------------------------
 
 CREATE DATABASE My_Movies;
 
